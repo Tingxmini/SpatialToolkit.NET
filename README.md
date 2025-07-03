@@ -80,3 +80,27 @@ The toolkit is packed with a comprehensive set of algorithms, categorized as fol
 - **Normal Cloud Model Generation:** For uncertainty and qualitative analysis.
 - **Line Simplification:** Douglas-Peucker algorithm.
 - **Clustering:** K-Means clustering algorithm.
+
+
+## Usage
+
+Once the application is running:
+1.  Use the menu bar or toolstrip buttons to select an algorithm category.
+2.  Input vector data by drawing directly on the main canvas or by loading data from a file (if supported).
+3.  Provide any necessary parameters (e.g., buffer distance, number of clusters).
+4.  Execute the algorithm.
+5.  The results will be displayed visually on the canvas and/or in a results panel.
+
+## Contributing
+
+Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+
+If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
+
+1.  **Fork** the Project
+2.  Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+3.  Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
+4.  Push to the Branch (`git push origin feature/AmazingFeature`)
+5.  Open a **Pull Request**
+
+Don't forget to give the project a star! Thanks again!
